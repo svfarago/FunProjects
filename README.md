@@ -12,7 +12,8 @@ Question: Will the overly priced Yeti jug keep my coffee hot for a day trip in t
 Answer: Yes
 
 Summary: Hot water loss is 1 degree per hour.
-YetiChart.png
+See: https://github.com/svfarago/FunProjects/blob/main/YetiChart.png
+
 #### --- Details -------------
 I used another thermos to keep coffee hot during day trips in the car. The coffee would stay hot for 2 hours max and then turn into room temperature brown water. Yeti is the standard for thermal hot/cold appliances so I decided to spend the money and get a Yeti half gallon jug. I wanted to test the thermal decline with water just in case it didn't perform well so I could return it. I will be keeping the Yeti and I look forward to my next road trip!
 
